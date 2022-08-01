@@ -37,21 +37,21 @@ let krizyn = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🎮GroupBot🎮',
-               url: 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+               url: 'https://chat.whatsapp.com/IMjOBNwprvzAvLMss3D7iU'
              }
 
            },
                 {
                urlButton: {
                displayText: '🔮Myweb🔮',
-               url: 'https://istagram.com/zalfapontinanak'
+               url: 'rajahentai.xyz'
              }
 
            },
                {
              quickReplyButton: {
                displayText: 'Script',
-               id: '.sc',
+               id: '.owner',
              }
              
            },
